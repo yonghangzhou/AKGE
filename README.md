@@ -70,7 +70,7 @@ For clarify, hereafter we use movieLens dataset as a toy example to demonstrate 
    + Feed both postive and negative path into the AGNN, train and evaluate the model
  
    
-+ References
+## References
 
    [1] Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, and Xuan Zhu. 2015. Learningentity and relation embeddings for knowledge graph      completion. In AAAI.
 
