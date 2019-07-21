@@ -15,7 +15,7 @@ Attentive Graph Neural Network (AGNN) is a new recommendation framework tailored
 + MovieLens
    + For the MoiveLens dataset, we crawl the corresponding IMDB dataset as movie auxiliary information, including genre, director, and actor. Note that we automatically remove the movies without auxilairy information. We then combined MovieLens and IMDB by movie title and released year. The combined data is saved in a txt file (movie-features-unmapping.txt) and the format is as follows:    
    
-         id:1|genre:Animation,Adventure,Comedy|director:John Lasseter|actors:Tom Hanks,Tim Allen,Don Rickles,Jim Varney
+         id:1|actors:Tom Hanks, Tim Allen, Don Rickles, Jim Varney|director:John Lasseter|genre:Animation, Adventure, Comedy
    
    + For the original user-movie rating data, we remove all items without auxiliary information. The data is save in a txt file (user_movies.txt) and the format is as follows:  
    
