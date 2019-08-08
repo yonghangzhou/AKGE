@@ -1,7 +1,7 @@
 # AKGE
 ## Introduction 
 
-Attentive Graph Neural Network (AGNN) is a new recommendation framework tailored to knowledge graph-based personalized recommendation. Built upon the graph neural network framework, AGNN explicitly models the semantics encoded in KGs with expressive subgraphs to provide better recommendation with side information.
+Attentive Knowledge Graph Embedding (AKGE) is a new recommendation framework tailored to knowledge graph-based personalized recommendation. Built upon the graph neural network framework, AKGE exploits the semantics and topology encoded in KGs with expressive subgraphs to provide better recommendation with side information.
 
 ## Environment Requirement
 + Python 2.7
