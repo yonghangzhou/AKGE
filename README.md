@@ -67,8 +67,9 @@ For clarify, hereafter we use movieLens dataset as a toy example to demonstrate 
 + Train and Test (GGNNTrain_Relation.py, Main.py)
 
    + Feed both postive and negative path into the AGNN, train and evaluate the model
- 
    
+   + You can run Main.py to start training and testing the model. 
+         
 ## References
 
    [1] Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, and Xuan Zhu. 2015. Learningentity and relation embeddings for knowledge graph      completion. In AAAI.
