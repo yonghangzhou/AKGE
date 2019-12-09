@@ -48,7 +48,7 @@ For clarify, hereafter we use movieLens dataset as a toy example to demonstrate 
 
    + Sample negative movies for each user to balance the model training & Sample negative movies for test. 
     
-   + Input Data: training.txt; test.txt
+   + Input Data: training.txt;  test.txt
    
    + Output Data: negative.txt; test_negative.txt
 
